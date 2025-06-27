@@ -1,16 +1,16 @@
 # Water_Quality_Prediction
 This project focuses on predicting multiple physicochemical parameters of water using advanced machine learning techniques, helping to assess water safety and detect pollution early.Developed as part of the AICTE Shell-sponsored Virtual Internship (June 2025), the model uses a MultiOutputRegressor with a Random Forest Regressor backend to handle multi-target regression.
 
-Overview:
+#Overview:
 Access to clean water is a critical global concern. Accurate prediction of various water quality metrics can help in early detection of pollution and ensure timely intervention.
 
-In this project, we:
+#In this project, we:
 Collected and preprocessed real-world water quality datasets
 Used supervised machine learning for multi-target regression
 Built a pipeline using MultiOutputRegressor with RandomForestRegressor
 Evaluated the model using appropriate regression metrics
 
-Technologies Used:
+#Technologies Used:
 Python 3.12
 Pandas, NumPy – Data handling
 Scikit-learn – Machine learning model and evaluation
@@ -18,23 +18,23 @@ Matplotlib, Seaborn – Data visualization
 Jupyter Notebook – Interactive experimentation
 Predicted Water Quality Parameters
 
-The model predicts multiple water quality parameters such as:
+#The model predicts multiple water quality parameters such as:
 NH4
 BOD5 (BSK5)
 Colloids
 O2, NO3, NO2, SO4, PO4 and
 CL
 
-Model Performance
+#Model Performance:
 The model was evaluated using:
 R² Score
 Mean Squared Error (MSE)
 Performance was acceptable across all parameters
 
-Model link:
+#Model link:
 https://drive.google.com/file/d/1o3QxubY5_XxRu8cuTQrb8kIarFHHzSIh/view?usp=drive_link
 
-Internship Details
+#Internship Details:
 Internship Type: AICTE Virtual Internship - Edunet Foundation
 Sponsor: Shell
 Duration: June 2025 (1 month)
