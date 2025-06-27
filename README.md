@@ -2,11 +2,11 @@
 This project focuses on predicting multiple physicochemical parameters of water using advanced machine learning techniques, helping to assess water safety and detect pollution early.Developed as part of the AICTE Shell-sponsored Virtual Internship (June 2025), the model uses a MultiOutputRegressor with a Random Forest Regressor backend to handle multi-target regression.
 
 #Overview:
-Access to clean water is a critical global concern. Accurate prediction of various water quality metrics can help in early detection of pollution and ensure timely intervention.
+->Access to clean water is a critical global concern. Accurate prediction of various water quality metrics can help in early detection of pollution and ensure timely intervention.
 
 #In this project, we:
-Collected and preprocessed real-world water quality datasets
-Used supervised machine learning for multi-target regression
+->Collected and preprocessed real-world water quality datasets
+->Used supervised machine learning for multi-target regression
 Built a pipeline using MultiOutputRegressor with RandomForestRegressor
 Evaluated the model using appropriate regression metrics
 
